@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Document</title>
+</head>
+<body>
+	<header>
+    	<h1>Mizheva Samantha</h1>
+    	<nav>
+			 <a href="one.html">one</a>
+			 <a href="two.two.html">two</a>
+			 <a href="three.html">three</a>
+			 <a href="songs.html">Songs</a>
+		 </nav>
+</header>
+<section>
+ <h2>Favorite Foods</h2>
+	 <ul>
+		<li>hichin</li>
+		<li>potato pie</li>
+		<li>orange cake</li>
+		<li>green soup</li>
+	 </ul>
+</section>
+<section>
+   <h2>Achievements</h2>
+      <p>Progress in this course (100%)</p><progress value="100" max="100"></progress><br/>
+      <p>Progress in the Specialization capstone (20%)</p><progress value="20" max="100"></progress><br/>
+      <p>Progress in life goals (70%)</p><progress value="70" max="100"></progress>
+</section>
+<section>
+	<h2>More About Me</h2>
+	<details>
+    <summary>My childhood</summary>
+    In my opinion, childhood should be the happiest time in every person’s life. My childhood was happy and memorable. I remember almost every event from that time. Sometimes I wish I could turn back the time and stay there a little but more. It was the world of fairy-tales and magic.
+	</details>
+</section>
+<footer>
+	<img src="http://www.intro-webdesign.com/images/newlogo.png" alt="logo">
+	<p>This page was created by Troy &amp; Colleen van Lent. To learn more about web design, visit
+	<a href="http://www.intro-webdesign.com">Intro to Web Design</a>
+ 	</p>
+</footer>
+</body>
+</html>
